@@ -34,7 +34,7 @@ export function Login() {
           <div className="w-16 h-16 rounded-2xl bg-primary-600 flex items-center justify-center mb-4 shadow-lg">
             <Dumbbell className="text-white" size={32} strokeWidth={2.5} />
           </div>
-          <h1 className="text-2xl font-bold text-gray-900">JimGym</h1>
+          <h1 className="text-2xl font-bold text-gray-900">Gym Space</h1>
           <p className="text-gray-600 text-sm mt-1">Вход в личный кабинет</p>
         </div>
 

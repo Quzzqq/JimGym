@@ -27,7 +27,7 @@ export const ANNOUNCEMENTS: Announcement[] = [
   {
     id: '3',
     title: 'Акция: приведёшь друга — получи скидку 10%',
-    body: 'Приведите друга в JimGym и получите скидку 10% на следующий месяц абонемента!',
+    body: 'Приведите друга в Gym Space и получите скидку 10% на следующий месяц абонемента!',
     date: '2026-03-05',
   },
 ]
@@ -103,7 +103,7 @@ export const SCHEDULE: ScheduleItem[] = [
 export const CONTACTS = {
   address: 'г. Москва, ул. Спортивная, д. 15',
   phone: '+7 (495) 123-45-67',
-  email: 'info@jimgym.ru',
+  email: 'krasnogorsk@gym-space.ru',
   hours: 'Пн–Вс: 07:00 — 23:00',
 }
 

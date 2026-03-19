@@ -24,7 +24,7 @@ export function Settings() {
       <div className="bg-gradient-to-br from-primary-600 to-primary-700 rounded-2xl p-6 text-white shadow-xl">
         <div className="flex items-center gap-2 mb-4">
           <CreditCard size={24} />
-          <span className="font-semibold">JimGym</span>
+          <span className="font-semibold">Gym Space</span>
         </div>
         <p className="text-2xl font-bold mb-1">{membership.type}</p>
         <p className="text-primary-200 text-sm">Действует до {formatDate(membership.expiresAt)}</p>
